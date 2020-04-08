@@ -5,3 +5,5 @@ rencana
   * android
   * website
   * desktop
+ - stuktur data
+
