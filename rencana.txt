@@ -5,7 +5,9 @@ rencana
   * android
    -kotlin
   * website
-   - angular
-    -vue.js
+    -javascript
+     -python
+     -node.js
+     -react.js
   * desktop
 
