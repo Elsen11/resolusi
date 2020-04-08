@@ -4,6 +4,10 @@ rencana
 - membuat project besar 
   * android
   * website
+    -javascript
+     -python
+     -node.js
+     -react.js
   * desktop
  - stuktur data
 
