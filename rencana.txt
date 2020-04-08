@@ -1,4 +1,7 @@
 rencana 
 
 - membuat website fullstack
-- membuat project besar
+- membuat project besar 
+  * android
+  * website
+  * desktop
