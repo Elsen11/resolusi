@@ -1,0 +1,4 @@
+rencana 
+
+- membuat website fullstack
+- membuat project besar
