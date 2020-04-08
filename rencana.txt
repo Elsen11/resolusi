@@ -3,7 +3,9 @@ rencana
 - membuat website fullstack
 - membuat project besar 
   * android
+   -kotlin
   * website
+   - angular
+    -vue.js
   * desktop
- - stuktur data
 
