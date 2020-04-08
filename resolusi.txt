@@ -1,6 +1,12 @@
 resolusi
-- konsisten untuk membuat project 4x seminggu
+- konsisten untuk membuat project 6x seminggu
 - membuat website 
-- membuat project android
+- membuat project android dengan java dan kotlin
 - belajar framework
-- belajar database
+- belajar database :  SQL & noSQL
+- membuat project javascrit : react.js, node.js, DOM
+- membuat project php : codegniter,laravel
+- membuat project Python : Machine learning, Tensor Flow, web, game
+- belajar bootstrap
+
+
