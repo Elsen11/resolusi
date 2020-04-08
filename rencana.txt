@@ -3,11 +3,11 @@ rencana
 - membuat website fullstack
 - membuat project besar 
   * android
+   -kotlin
   * website
     -javascript
      -python
      -node.js
      -react.js
   * desktop
- - stuktur data
 
